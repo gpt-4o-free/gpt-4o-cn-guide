@@ -1,6 +1,6 @@
 
 # **ChatGPT-4o绘图指南及国内使用GPT-4o方法：详细教程与案例分享【2025/04】**
-> 更新日期：2025-04-25
+> 更新日期：2025-05-19
 ---
 ChatGPT-4o，由OpenAI团队打造的最新多模态AI模型，以其强大的文本生成和图像生成能力席卷全球。尤其在绘图功能上，ChatGPT-4o能够根据文字描述生成高质量图像，广泛应用于设计、创意、营销等领域。本文将为您详细介绍如何在国内使用ChatGPT-4o的绘图功能，并分享实用教程与案例。
 
@@ -33,8 +33,8 @@ ChatGPT-4o的绘图功能为何如此受欢迎？
 推荐资源：  
 | 网站名称 | 功能支持 | 访问链接 |
 | --- | --- | --- |
-| **[一下 AI](https://chat.yixiaai.com)** | 支持ChatGPT-4o绘图、Claude 3.7、Grok-3、联网查询等 | [点击访问](https://chat.yixiaai.com) |
-| **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | ChatGPT-4o绘图、文本生成，高效便捷 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[XSimple AI](https://xsimplechat.com)** | 支持ChatGPT-4o绘图、Claude 3.7、Grok-3、联网查询等 | [点击访问](https://chat.yixiaai.com) |
+| **[蓝鲸 AI](https://chat.lanjing.pro/)** | ChatGPT-4o绘图、文本生成，高效便捷 | [点击访问](https://chat.lanjing.pro/) |
 | **[智惠聚合 AI](https://deepseek-free.org/)** | ChatGPT-4o & DeepSeek绘图功能全解锁 | [点击访问](https://deepseek-free.org/) |
 
 **优点**：  
@@ -46,7 +46,7 @@ ChatGPT-4o的绘图功能为何如此受欢迎？
 
 ### **2. 使用支持ChatGPT-4o的大型在线服务平台**
 一些在线服务平台直接提供ChatGPT-4o的绘图功能，通过模拟器或API集成，省去繁琐配置。  
-推荐平台：[https://guide1.lanjing.ai](https://guide1.lanjing.ai)。  
+推荐平台：[https://xsimplechat.com](https://xsimplechat.com)。  
 
 **优点**：  
 - 操作简单，无需复杂设置。  
@@ -56,7 +56,7 @@ ChatGPT-4o的绘图功能为何如此受欢迎？
 
 ### **3. 下载国内AI工具客户端**
 对于需要更稳定体验的用户，可以选择国内开发的AI客户端，支持ChatGPT-4o绘图功能。  
-推荐客户端：[智惠岛AI客户端](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)。  
+推荐客户端：[智惠岛AI客户端](https://chat.lanjing.pro)。  
 
 **优点**：  
 - 运行稳定，无需依赖浏览器。  
@@ -66,7 +66,7 @@ ChatGPT-4o的绘图功能为何如此受欢迎？
 
 ### **4. 通过Edge浏览器插件快速上手**
 如果你喜欢在浏览器中操作，可以安装支持ChatGPT-4o绘图的插件，轻松实现图像生成。  
-推荐插件：[ChatGPT中文版插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil)。  
+推荐插件：[ChatGPT中文版插件](xsimplechat.coml)。  
 
 **优点**：  
 - 即插即用，无需额外窗口。  
